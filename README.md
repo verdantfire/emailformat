@@ -1,2 +1,2 @@
-# emailformat
-This repository contains some html templates for emails sent by Uthaan.
+# Uthaan Email Formats
+This repository contains some example HTML templates for emails that are sent by Uthaan.
